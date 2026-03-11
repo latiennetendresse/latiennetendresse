@@ -31,10 +31,8 @@ I'm a backend engineer with 5+ years of experience building production-ready sys
 ### 📫 Connect With Me
 
 - Telegram: [@xauusdasha](https://t.me/xauusdasha)
-- Email: [nevzorovadarya@icloud.com](mailto:nevzorovadarya@icloud.com)
-- Habr Career: [career.habr.com/latiennetendresse](https://career.habr.com/latiennetendresse)
 
 ---
 
 > “I enjoy complex tasks where code is not the first answer, but the final result of good thinking.”  
-> — Darya Nevzorova
+> — Dary
