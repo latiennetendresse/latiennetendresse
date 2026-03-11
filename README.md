@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Darya 👋</h1>
+<h1 align="center">Hi, I'm Dary 👋</h1>
 
 <p align="center">
   🐍 Python Backend Developer | 🧠 Trading Automation Enthusiast | 🪙 Interested in blockchain development and decentralized systems - currently exploring Solidity and smart contracts as a side passion
@@ -8,7 +8,7 @@
 
 ### 💡 About Me
 
-I'm a backend engineer with 4+ years of experience building production-ready systems using Python, FastAPI, PostgreSQL, Docker, and more. I enjoy solving complex problems, optimizing performance, and working on systems that require thoughtful architecture.
+I'm a backend engineer with 5+ years of experience building production-ready systems using Python, FastAPI, PostgreSQL, Docker, and more. I enjoy solving complex problems, optimizing performance, and working on systems that require thoughtful architecture.
 
 - 🛠 Experienced with API development, async microservices, database design, integrations & messaging queues
 - 🔧 Passionate about automation, trading logic, and building reliable backend services
